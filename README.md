@@ -11,12 +11,12 @@ casa y disfrutar su plato favorito.
 -  6.1  No , Colgar telefono y regresar al 1
 -  6.2 Si , ¿Tiene el plato favorito?
 -   6.2.1 NO , ¿Tiene otro plato favorito?
--    6.1.1.1 No , Colgar telefono y regresar al 1
--    6.1.1.2 Si , Entregar Datos 
+-    6.2.1.1 No , Colgar telefono y regresar al 1
+-    6.2.1.2 Si , Entregar Datos 
 -   6.2.2 Si , Entregar datos
 - 7. Entregar datos 
 - 8. Confirmar pedido 
 - 9. Entrega de pedido
 - 10. FIN
 
-![Con titulo](http://4.1m.yt/McGpfC.jpg"titulo")
+![Con titulo](http://4.1m.yt/McGpfC.jpg)
